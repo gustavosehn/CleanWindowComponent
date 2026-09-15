@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZsCng20XGU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Downloads\\cwc-part-1\\cwc-part-1\\cwc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\sharpvectors\\1.8.6\\sharpvectors.1.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}
